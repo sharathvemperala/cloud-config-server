@@ -7,6 +7,6 @@ eureka:
   instance:
     hostname: localhost
     
-  payment-service-url: http://PAYMENT-SERVICE/payment/payments
-  order-service-url: http://ORDER-SERVICE/order/orders
+ payment-service-url: http://PAYMENT-SERVICE/payment/payments
+ order-service-url: http://ORDER-SERVICE/order/orders
 
